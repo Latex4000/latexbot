@@ -1,0 +1,14 @@
+{
+  "name": "latexbot",
+  "version": "1.0.0",
+  "description": "Bot for anyone to add whatever commands and shit they want",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node --env-file=.env index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.17.2"
+  }
+}
